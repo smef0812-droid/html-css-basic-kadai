@@ -50,24 +50,18 @@
     margin:auto;
     background-color: #87ceeb;
 }
-#bottom-child01{
-    background-color: #e5dcf0;
-    left:0px;
-    width:400px;
-    position:relatice;
-    height:100px;
-}
-#bottom-child02{
+.child{
     width:400px;
     height:100px;
     background-color: #e5dcf0;
     position:relative;
+}
+#bottom-child01{
+    left:0px;
+}
+#bottom-child02{
     left:200px;
 }
 #bottom-child03{
-    width:400px;
-    height:100px;
-    background-color: #e5dcf0;  
-    position:relative;
     left:400px;
 }
